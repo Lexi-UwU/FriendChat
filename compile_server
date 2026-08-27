@@ -1,0 +1,2 @@
+mkdir -p build
+gcc server/main.c -o build/http_server
